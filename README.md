@@ -26,6 +26,14 @@ This repository is my personal learning space where I document my cybersecurity 
 | AI in Cybersecurity | Applying AI to security operations and threat detection |
 | Security Automation | Python, scripting and security workflows |
 
+## Technical Write-ups
+
+| Topic | Description |
+|---|---|
+| [Blue Team Foundations](04-threat-detection-and-response/blue-team-foundations/README.md) | Introduction to Blue Team operations, SOC responsibilities, alert triage, social engineering and system security. |
+
+More technical write-ups and learning notes will be added as I progress.
+
 ## Hands-on Learning
 
 I'll use this section to document practical exercises, investigations, and lessons learned as I progress.
