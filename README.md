@@ -2,7 +2,7 @@
 
 Welcome to my Cybersecurity Learning Lab!
 
-I'm Vivek Vardhan Kotha, a cybersecurity professional interested in understanding how security works, how threats are detected, and how technology can be used to build stronger security systems.
+I'm Vivek Vardhan Reddy Kotha, a cybersecurity professional interested in understanding how security works, how threats are detected, and how technology can be used to build stronger security systems.
 
 This repository is my personal learning space where I document my cybersecurity journey through technical notes, hands-on labs, research, experiments, and projects.
 
